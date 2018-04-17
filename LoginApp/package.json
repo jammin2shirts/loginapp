@@ -1,0 +1,19 @@
+{
+  "name": "loginapp",
+  "version": "1.0.0",
+  "description": "App that allows logins and maybe more",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jammin2shirts/loginapp.git"
+  },
+  "author": "jammin2shirts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jammin2shirts/loginapp/issues"
+  },
+  "homepage": "https://github.com/jammin2shirts/loginapp#readme"
+}
