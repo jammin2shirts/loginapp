@@ -1,0 +1,15 @@
+{
+  "name": "bensapp",
+  "version": "1.0.0",
+  "description": "testing to create a writeup for other app processes",
+  "main": "server.js",
+  "dependencies":{
+    "express":"*",
+    "mysql":  "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jammin2shirts",
+  "license": "ISC"
+}
